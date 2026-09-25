@@ -4,7 +4,9 @@ StateHoisting dengan State yang dikelola Parent :
 1. Harga Tiket
 2. Jumlah Tiket
 3. Nama Pembeli Tiket
+   
 Menggunakan Launched Effect untuk menampilkan :
+
 Status : Nama Masih Kosong
 Status : Memproses pesanan........., setelah 5 detik, muncul lagi
 Status : Tiket telah dipesan 
