@@ -8,8 +8,11 @@ StateHoisting dengan State yang dikelola Parent :
 Menggunakan Launched Effect untuk menampilkan :
 
 Status : Nama Masih Kosong
+
 Status : Memproses pesanan........., setelah 5 detik, muncul lagi
+
 Status : Tiket telah dipesan 
+
 Menggunakan RememberSavable
 
 ## Halaman Silahkan Pesan Tiket
